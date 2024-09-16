@@ -6,6 +6,7 @@ Test
 
 Installation
 ------------
+Test
 
 To use Lumache, first install it using pip:
 
